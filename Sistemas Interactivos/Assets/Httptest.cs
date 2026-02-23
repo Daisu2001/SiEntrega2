@@ -29,6 +29,10 @@ public class HttpTest : MonoBehaviour
          {
           Debug.Log("Character not found");
          }
+          if(www.responseCode == 401)
+         {
+          Debug.Log("Redireccionar al login");
+         }
         }
         else
         {
