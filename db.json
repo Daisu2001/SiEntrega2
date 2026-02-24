@@ -26,8 +26,8 @@
     "deck" : [1,2,3,4,5]
     },  
     {
-    "id":5
-    "username" : "Miguel",
+    "id":5,
+    "username" : "Mauricio",
     "state" : true,
     "deck" : [10,15,18,46,55]
     },
