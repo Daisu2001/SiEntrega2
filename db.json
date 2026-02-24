@@ -2,35 +2,35 @@
   "users" : 
   [
     {
-    "id":1
-    "username" : Miguel
-    "state" : true
+    "id":1,
+    "username" : Miguel,
+    "state" : true,
     "deck" : [22,23,24,25,26]
     },
     {
-    "id":2
-    "username" : Ana
-    "state" : true
+    "id":2,
+    "username" : Ana,
+    "state" : true,
     "deck" : [8,49,88,89,100]
     },
     {
-    "id":3
-    "username" : Lina
-    "state" : true
+    "id":3,
+    "username" : Lina,
+    "state" : true,
     "deck" : [99,33,44,55,90]
     },
     {
-    "id":4
-    "username" : Belén
-    "state" : true
+    "id":4,
+    "username" : Belén,
+    "state" : true,
     "deck" : [1,2,3,4,5]
     },  
     {
     "id":5
-    "username" : Miguel
-    "state" : true
+    "username" : Miguel,
+    "state" : true,
     "deck" : [10,15,18,46,55]
     },
     
   ]
-};
+}
